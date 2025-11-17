@@ -1,16 +1,8 @@
-{
-  "name": "everything-now-site",
-  "version": "1.0.0",
-  "dependencies": {
-    "bcryptjs": "^2.4.3",
-    "jsonwebtoken": "^8.5.1",
-    "next": "^14.2.4",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  },
-  "scripts": {
-    "build": "next build",
-    "dev": "next dev",
-    "start": "next start"
-  }
+"dependencies": {
+  "qrcode": "^1.5.0",
+  "bcryptjs": "^2.4.3",
+  "jsonwebtoken": "^8.5.1",
+  "next": "^14.2.4",
+  "react": "^18.2.0",
+  "react-dom": "^18.2.0"
 }
